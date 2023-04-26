@@ -1,0 +1,38 @@
+
+/* table end */
+
+.container{
+}
+
+
+.pricelist{
+    width: 40%;
+    margin: auto;
+    border: 15px solid #7f4f57;
+    border-radius: 10px;
+
+}
+table{
+    width: 100%;
+    min-height: 40VH;
+    border-collapse: collapse;
+    background-image: linear-gradient(0deg,#fb3255,#ddd );
+
+  }
+
+  tr{
+    border: 5px solid #7f4f57;
+    
+
+  }
+td{
+    outline: none;
+    border: none;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+
+
+
+
+  }
